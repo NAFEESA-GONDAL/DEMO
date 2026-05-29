@@ -36,6 +36,5 @@
 ---
 
 ## 📫 Contact
-Email: nafeesamoazzam83@gmail.com 
-LinkedIn:www.linkedin.com/in/nafeesa-gondal
-LinkedIn: (add link)
+Email: nafeesamoazzam83@gmail.com   
+LinkedIn: www.linkedin.com/in/nafeesa-gondal
