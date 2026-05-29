@@ -38,7 +38,4 @@
 ## 📫 Contact
 Email: nafeesamoazzam83@gmail.com 
 LinkedIn:www.linkedin.com/in/nafeesa-gondal
-
-
-Email: youremail@gmail.com  
 LinkedIn: (add link)
